@@ -121,6 +121,7 @@ h1 {
   right: -15px;
   border-width: 8px 0 8px 16px;
   border-color: transparent transparent transparent #800000;
+  color: #800000;
 }
 
 time {
@@ -192,6 +193,6 @@ time {
   .timeline ul li:nth-child(even) div::before {
     left: -15px;
     border-width: 8px 16px 8px 0;
-    border-color: transparent   #800000 transparent transparent;
+    border-color: transparent #800000 transparent transparent;
   }
 }
