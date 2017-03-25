@@ -10,11 +10,11 @@ body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
   background: #456990;
   color:white;
-  overflow-x: hidden;
   padding-bottom: 50px;
   border:#800000;
   border-width: 3px;
   width:100%;
+  overflow-x: hidden;
   
 }  /* INTRO SECTION
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
