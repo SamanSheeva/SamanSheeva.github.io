@@ -91,7 +91,7 @@ h1 {
   bottom: 0;
   width: 400px;
   padding: 15px;
-  background:   #800000;
+  background: #800000;
 }
 
 .timeline ul li div::before {
@@ -110,7 +110,7 @@ h1 {
 .timeline ul li:nth-child(odd) div::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
-  border-color: transparent #800000 transparent transparent;
+  border-color: transparent #800000;
 }
 
 .timeline ul li:nth-child(even) div {
